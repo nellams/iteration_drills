@@ -1,4 +1,5 @@
  # Write English interpretations of the following Ruby code:
+
 # 1. Each item in the 'numbers' array is called 'number.' For each 'number',
 # print out the number multiplied by 3.
 
